@@ -23,11 +23,16 @@ module.exports = {
           "3xl": "5rem",
         },
       },
-
-      extend: {
-        screens: {
-          "4k": "1980px",
-        },
+      screens: {
+        "4k": "1980px",
+      },
+      colors: {
+        coffee: '#3b2b2a',
+        mocha: '#5a3d31',
+        latte: '#d3a87c',
+        cream: '#f5e9dc',
+        caramel: '#a9745b',
+        espresso: '#2c1f1b',
       },
     },
   },
